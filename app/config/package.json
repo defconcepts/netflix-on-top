@@ -1,0 +1,20 @@
+{
+  "name": "Netflix On Top",
+  "main": "index.html",
+  "version":"0.0.1",
+  "window": {
+    "width": 600,
+    "height": 400,
+    "position": "center",
+    "toolbar": false,
+    "title": "Netflix On Top",
+    "always-on-top": true,
+    "resizable": true
+  },
+    "webkit": {
+    "plugin": true
+  },
+  "devDependencies": {
+   
+  }
+}
