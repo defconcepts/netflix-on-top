@@ -6,7 +6,7 @@ module.exports = function(grunt) {
             options: {
                 build_dir: './node-webkit', // build location
                 mac: true, //  mac32
-                win: false, //  win32
+                win: true, //  win32
                 linux32: false, // linux32
                 linux64: false // linux64
             },
