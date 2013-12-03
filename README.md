@@ -2,7 +2,7 @@ netflix-on-top
 ==============
 
 OSX App to watch netflix movies while you work
-EDIT: WINDOWS BUILD NOW AVAILABLE!
+WINDOWS BUILD NOW AVAILABLE!
 -----------
 
 ![Screenshot](https://raw.github.com/wookiecooking/netflix-on-top/master/screenshot.png)
