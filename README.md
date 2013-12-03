@@ -1,7 +1,7 @@
 netflix-on-top
 ==============
 
-OSX App to watch netflix movies while you work
+A Windows & OSX App to watch netflix movies while you work
 WINDOWS BUILD NOW AVAILABLE!
 -----------
 
@@ -25,5 +25,4 @@ This app is no way associated with netflix or affliates, this is simply a iframe
 * open Netflix On Top.exe and enter credentials.
 
 For long term use, drag app into your Applications folder.
-
 
