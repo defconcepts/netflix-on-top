@@ -2,7 +2,7 @@ netflix-on-top
 ==============
 
 OSX App to watch netflix movies while you work
-
+EDIT: WINDOWS BUILD NOW AVAILABLE!
 -----------
 
 ![Screenshot](https://raw.github.com/wookiecooking/netflix-on-top/master/screenshot.png)
@@ -13,10 +13,16 @@ Netflix On Top allows you to watch netflix movies while you work and browse, A n
 
 This app is no way associated with netflix or affliates, this is simply a iframe.
 
-### How to Use
+### How to Use (OSX)
 * [Download Now](https://github.com/wookiecooking/netflix-on-top/zipball/master/)
 * unzip netflix-on-top.zip by clicking on it
 * open netflix-on-top.app and enter credentials.
+
+
+### How to Use (Win)
+* [Download Now](https://github.com/wookiecooking/netflix-on-top/zipball/master/)
+* unzip win-netflix-on-top.zip by clicking on it
+* open Netflix On Top.exe and enter credentials.
 
 For long term use, drag app into your Applications folder.
 
