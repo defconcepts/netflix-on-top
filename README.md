@@ -2,8 +2,7 @@ netflix-on-top
 ==============
 
 ## Note
-this project has been deprecated. this is simply for reference.
-
+this project is deprecated. this is simply for reference.
 
 A Windows & OSX App to watch netflix movies while you work
 WINDOWS BUILD NOW AVAILABLE!
